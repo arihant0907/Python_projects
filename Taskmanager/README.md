@@ -1,4 +1,4 @@
-# 🌊 Glassmorphic Task Manager
+# 🌊 Task Manager
 
 A sleek, modern, and lightweight Task Manager built with **Python** and **Flet (v0.80.0)**. This app features a premium "frosted glass" UI, real-time task management, and an adaptive theme engine.
 
