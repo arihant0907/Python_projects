@@ -1,1 +1,43 @@
+# 🌊 Glassmorphic Task Manager
 
+A sleek, modern, and lightweight Task Manager built with **Python** and **Flet (v0.80.0)**. This app features a premium "frosted glass" UI, real-time task management, and an adaptive theme engine.
+
+---
+
+## ✨ Key Features
+
+* **Modern Glassmorphism:** Task cards utilize `ft.Blur` and semi-transparent backgrounds for a high-end look.
+* **Adaptive Themes:** Toggle between **Dark Mode** and **Light Mode** instantly.
+* **Floating Action Button (FAB):** Material Design interaction anchored to the bottom right for adding tasks.
+* **Clean Architecture:** Responsive layout that works on Desktop and Mobile windows.
+* **Subtle Branding:** Includes a faint, professional author signature in the footer.
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+This project requires **Python 3.8+**. To ensure the UI renders correctly without deprecation errors, use Flet version `0.80.0`.
+
+### Installation
+
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/YOUR_USERNAME/task-manager-flet.git](https://github.com/YOUR_USERNAME/task-manager-flet.git)
+    cd task-manager-flet
+    ```
+
+2.  **Create a virtual environment (Optional but Recommended):**
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # On Windows: venv\Scripts\activate
+    ```
+
+3.  **Install Flet:**
+    ```bash
+    pip install flet==0.80.0
+    ```
+
+### Run the App
+
+```bash
+python src/main.py
