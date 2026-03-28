@@ -48,7 +48,7 @@ python src/main.py
 ### App Screenshots
 | Home Screen (Dark) | Home Screen (Light) |
 | :---: | :---: |
-| ![Dark UI](./assets/screenshot_dark.png) | ![Light UI](./assets/screenshot_light.png) |
+| ![Dark UI](./screenshot_dark.png) | ![Light UI](./screenshot_light.png) |
 
 ## 👨‍💻 Author
 
