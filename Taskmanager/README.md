@@ -22,7 +22,7 @@ This project requires **Python 3.8+**. To ensure the UI renders correctly withou
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/task-manager-flet.git](https://github.com/YOUR_USERNAME/task-manager-flet.git)
+    git clone https://github.com/arihant0907/Python_projects/main/Taskmanager.git
     cd task-manager-flet
     ```
 
