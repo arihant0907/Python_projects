@@ -41,3 +41,20 @@ This project requires **Python 3.8+**. To ensure the UI renders correctly withou
 python src/main.py
 ```
 
+## 📸 Visuals
+
+### App Screenshots
+| Home Screen (Dark) |
+| :---: |
+| ![Dark UI](./assets/screenshot_dark.png) |
+
+## 👨‍💻 Author
+
+**[Your Name]**
+*Software Developer | Flet Enthusiast*
+
+If you found this Task Manager helpful, consider giving it a ⭐ on GitHub!
+
+---
+*Created with ❤️ using Python & Flet*
+
