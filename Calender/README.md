@@ -20,7 +20,7 @@ This project requires **Python 3.8+**. To ensure the UI renders correctly withou
 
 1.  **Clone the repository:**
     ```bash
-    git clone [(https://github.com/YOUR_USERNAME/task-manager-flet.git)](https://github.com/arihant0907/Python_projects.git)
+    git clone 
     cd task-manager-flet
     ```
 
@@ -44,13 +44,13 @@ python src/main.py
 ## 📸 Visuals
 
 ### App Screenshots
-| Home Screen (Dark) |
+| Calender |
 | :---: |
-| ![Dark UI](./assets/screenshot_dark.png) |
+| ![Dark UI](./cal_screenshot_dark.png) |
 
 ## 👨‍💻 Author
 
-**[Your Name]**
+**Arihant**
 *Software Developer | Flet Enthusiast*
 
 If you found this Task Manager helpful, consider giving it a ⭐ on GitHub!
