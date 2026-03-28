@@ -41,7 +41,7 @@ This project requires **Python 3.8+**. To ensure the UI renders correctly withou
 
 ```bash
 python src/main.py
-    ```
+```
 
 ## 📸 Visuals
 
