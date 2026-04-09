@@ -24,7 +24,7 @@ In a world of cluttered and noisy interfaces, **ZenSpace** serves as a demonstra
 
 | Breathing Exercise (Active) |
 | :---: | 
-| <img src="assets/preview_zenspace.png" width="300"> |
+| <img src="preview_zenspace.png" width="300"> |
 
 > **Note:** For the best GitHub profile, record a short GIF of the breathing animation and place it in the `assets/` folder.
 
