@@ -39,7 +39,7 @@ In a world of cluttered and noisy interfaces, **ZenSpace** serves as a demonstra
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/zenspace-flet.git](https://github.com/YOUR_USERNAME/zenspace-flet.git)
+    git clone https://github.com/arihant0907/Python_projects.git
     cd zenspace-flet
     ```
 
