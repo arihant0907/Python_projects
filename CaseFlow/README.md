@@ -13,7 +13,7 @@ In software development, switching between naming conventions (like a database's
 * **Regex-Powered:** Uses robust Python Regular Expressions to handle complex string spacing.
 
   ## 📸 Preview
-| City Carousel |
+| CaseFlow |
 | :---: | 
 | <img src="case_flow_preview.png" width="300"> |
 
@@ -22,7 +22,7 @@ In software development, switching between naming conventions (like a database's
 
 1. **Clone the Repo:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/caseflow-flet.git](https://github.com/YOUR_USERNAME/caseflow-flet.git)
+   git clone https://github.com/arihant0907/Python_projects.git
    cd caseflow-flet
   '''
 
