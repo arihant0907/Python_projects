@@ -1,4 +1,4 @@
-# 🚀 PromptLab Pro | ZWorks Component Library
+# 🚀 PromptLab Pro 
 
 PromptLab Pro is a specialized developer tool designed for the "Agentic Era." It provides a high-performance environment to draft, structure, and preview complex LLM (Large Language Model) instructions before deployment.
 
